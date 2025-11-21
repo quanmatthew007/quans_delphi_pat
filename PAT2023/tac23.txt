@@ -1,0 +1,29 @@
+Terms And Conditions:
+
+Findr is a program dedicated to the betterment of the ocean and marine life alike,
+therefore it is expeted of us and our users to carry ourselves out in a manner that is professional and ethical.
+With the above stated:
+Fishermen are prohibited from the following:
+- entering nonsensical data 
+- attempting to change unauthorised data
+- creating multiple(spam) accounts per person
+- attempting to login as an admin
+- attempting to login as a policeman
+- attempting to login in place of a policeman 
+- attempting to commit fraud by impersonating a policeman or admin
+- attempting to commit fruad by loging in as another fisherman
+
+Policemen are prohibited from the following:  
+- entering nonsensical data 
+- attempting to change unauthorised data
+- creating multiple(spam) accounts per person
+- attempting to login as an admin
+- attempting to impersonate fisherman 
+- attempting to commit fraud by impersonating a fisherman or admin
+- attempting to commit fraud by loging in as another policeman
+
+Should the above restrictions not be adhered to, legal actions may follow.
+Finder does not take responsibility for any loss of personal data.
+Finder does not take responsibility for any theft of data.
+Should theft or loss of data occur, please contact the admin from the help form.
+Findr reserves the right of admission.
