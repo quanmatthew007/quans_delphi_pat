@@ -1,0 +1,50 @@
+Fishermen Help:
+
+Buttons: 
+Each button executes what is labeled on it,
+if you hover your pointer(mouse) over the button,
+it will usually provide extra information.
+
+Links:
+when clicking on a link(it will be in form of a label
+stating 'click here') it will take you out of the program
+and direct you into a website on a browser.(data charges may apply)
+
+Fish Information form:
+-when searching for a fish, ensure that you enter its name
+in the correct spelling and case
+-Nicknames and impropernames of fish is not applicable when entered
+-when leaving a comment, ensure that it contains the following:
+  -your username(or anon)
+  -your comment
+  -Your comment which is less than 8 lines
+-if there is an error in the comment or there is a need to remove it,
+please contact the admin from our instagram page.
+
+Beach Information form:
+-when searching for a beach, ensure that you enter its name
+in the correct spelling and case
+-Nicknames and impropernames of beaches are not applicable when entered
+-when leaving a comment, ensure that it contains the following:
+  -your username(or anon)
+  -your comment
+  -Your comment which is less than 8 lines
+-if there is an error in the comment or there is a need to remove it,
+please contact the admin from our instagram page.
+
+When selecting from a combo box:
+-do not type in your option but merely click on the arrow and select 
+your option
+
+when making use of a spin edit: 
+-ensure that you stay within the range limit when typing in a value
+
+When making use of a checkbox:
+-please ensure that you have selected your correct option as the
+default will be choosen otherwise
+
+when making use of the read aloud functions:
+-please note that the gui will be nullified i.e. you may not be able 
+to select anythin while it is reading
+
+Please contact us through our instagram page to report any bugs.
