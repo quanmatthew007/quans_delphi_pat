@@ -1,0 +1,26 @@
+Login and Welcome help:
+
+To login/signup:
+-please make use of the buttons on the right hand side of the 
+welcome page
+-when clicked it should take you to the login form
+-when navigating between forms, all data entered in the login 
+form will be erased as a security measure
+
+Links:
+-all links are in white text with the caption 'click here'
+-should you click on a link, you leave the findr program and 
+enter a website(Data charges may apply)
+
+Login/signup page:
+-when loging in please ensure that you spell your details 
+correctly and that it is in the correct CASE
+-if you wish to login as another title, simply navigate
+to the login form and change the title from the combo box
+-when signing up, please ensure that you enter your correct details 
+as they will be permanently save as they are entered
+-should you wish to change your details, please contact us
+through our instagram page
+
+
+
